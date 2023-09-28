@@ -1,1 +1,2 @@
 # Monnaie
+Vincent Chagnon
