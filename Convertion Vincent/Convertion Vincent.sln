@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertion Vincent", "Convertion Vincent\Convertion Vincent.csproj", "{13F6E1AA-8A05-4C56-8B0B-B977BC1E0A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F6E1AA-8A05-4C56-8B0B-B977BC1E0A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F6E1AA-8A05-4C56-8B0B-B977BC1E0A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F6E1AA-8A05-4C56-8B0B-B977BC1E0A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F6E1AA-8A05-4C56-8B0B-B977BC1E0A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6082AB10-C88F-4EFA-B0BB-07150112A8E1}
+	EndGlobalSection
+EndGlobal
